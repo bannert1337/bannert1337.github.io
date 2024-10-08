@@ -1,7 +1,7 @@
 [
 {
 		"title": "BCUninstaller",
-		"date":"Tue Oct 08 2024 15:22:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Oct 08 2024 15:26:48 GMT+0000 (Coordinated Universal Time)",
 		"url":"/software/bc-uninstaller/",
 		"content": "Bulk Crap Uninstaller\nhttps://github.com/Klocman/Bulk-Crap-Uninstaller\nhttps://www.bcuninstaller.com/",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Welcome",
-		"date":"Tue Oct 08 2024 15:22:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Oct 08 2024 15:26:48 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "This is your new vault.\nMake a note of something, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">create a link</a>, or try the Importer!\nWhen you're ready, delete this note and make the vault your own.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/software/bc-uninstaller/\">BCUninstaller</a>",
 		"tags": [ "note","gardenEntry"]

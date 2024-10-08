@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://wiki.bannert.dev">
+    <title>Digital Garden</title>
+    <link href="https://wiki.bannert.dev/feed.xml" rel="self" >
+    <link href="https://wiki.bannert.dev" >
+    <updated>2024-10-08T15:21:25Z</updated>
+    <id>https://wiki.bannert.dev</id>
+        <entry>
+            <title>
+                Welcome
+                
+            </title>
+            <updated>2024-10-08T15:21:16Z</updated>
+            <id>https://wiki.bannert.dev/</id>
+            <content type="html">
+                &lt;p&gt;This is your new &lt;em&gt;vault&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Make a note of something, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://wiki.bannert.dev/404&quot; target=&quot;&quot;&gt;create a link&lt;/a&gt;, or try &lt;a href=&quot;https://help.obsidian.md/Plugins/Importer&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;the Importer&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;When you&#39;re ready, delete this note and make the vault your own.&lt;br /&gt;
+&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://wiki.bannert.dev/software/bc-uninstaller/&quot;&gt;BCUninstaller&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://wiki.bannert.dev/" >
+        </entry>
+        <entry>
+            <title>
+                BCUninstaller
+                
+            </title>
+            <updated>2024-10-08T15:21:16Z</updated>
+            <id>https://wiki.bannert.dev/software/bc-uninstaller/</id>
+            <content type="html">
+                &lt;p&gt;Bulk Crap Uninstaller&lt;br /&gt;
+&lt;a href=&quot;https://github.com/Klocman/Bulk-Crap-Uninstaller&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://github.com/Klocman/Bulk-Crap-Uninstaller&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.bcuninstaller.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.bcuninstaller.com/&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://wiki.bannert.dev/software/bc-uninstaller/" >
+        </entry>
+</feed>

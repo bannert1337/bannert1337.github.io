@@ -3,14 +3,14 @@
     <title>Digital Garden</title>
     <link href="https://wiki.bannert.dev/feed.xml" rel="self" >
     <link href="https://wiki.bannert.dev" >
-    <updated>2024-10-08T15:26:55Z</updated>
+    <updated>2024-10-10T13:56:01Z</updated>
     <id>https://wiki.bannert.dev</id>
         <entry>
             <title>
                 Welcome
                 
             </title>
-            <updated>2024-10-08T15:26:48Z</updated>
+            <updated>2024-10-10T13:55:52Z</updated>
             <id>https://wiki.bannert.dev/</id>
             <content type="html">
                 &lt;p&gt;This is your new &lt;em&gt;vault&lt;/em&gt;.&lt;/p&gt;
@@ -26,7 +26,7 @@
                 BCUninstaller
                 
             </title>
-            <updated>2024-10-08T15:26:48Z</updated>
+            <updated>2024-10-10T13:55:52Z</updated>
             <id>https://wiki.bannert.dev/software/bc-uninstaller/</id>
             <content type="html">
                 &lt;p&gt;Bulk Crap Uninstaller&lt;br /&gt;

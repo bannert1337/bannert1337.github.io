@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/bc-uninstaller/"}
+{"dg-publish":true,"permalink":"/software/bc-uninstaller/","noteIcon":""}
 ---
 
 Bulk Crap Uninstaller
